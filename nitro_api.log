@@ -1,0 +1,24 @@
+2025-01-15 04:19:00,238 INFO [launcher] Sentry started
+2025-01-15 04:19:00,238 INFO [nitro_api] ---------- Initialize | Begin ----------
+2025-01-15 04:19:00,239 INFO [nitro_api] Module loading <exe> | Begin
+2025-01-15 04:19:00,239 INFO [nitro_api] Module loading <exe> | End
+2025-01-15 04:19:00,261 INFO [nitro_api] Module loading hw.dll | Begin
+2025-01-15 04:19:00,277 WARNING [nitro_api] [static hook] Can't create hook for SVC_Nop. Address: 0. Status: -200
+2025-01-15 04:19:00,277 INFO [nitro_api] Module loading hw.dll | End
+2025-01-15 04:19:00,283 INFO [nitro_api] Module loading cstrike\cl_dlls\client.dll | Begin
+2025-01-15 04:19:00,284 INFO [nitro_api] Module loading cstrike\cl_dlls\client.dll | End
+2025-01-15 04:19:00,284 INFO [nitro_api] Module loading sdl2.dll | Begin
+2025-01-15 04:19:00,284 INFO [nitro_api] Module loading sdl2.dll | End
+2025-01-15 04:19:00,284 INFO [nitro_api] ---------- Initialize | End ----------
+2025-01-15 04:19:00,284 INFO [launcher] nitro_api: NITRO_API_001, Jun  7 2024 11:13:21
+Launcher: 1.2.5 (Aug 19 2024 20:49:28)
+next_engine_mini: EngineMini003, Jun 18 2024 14:07:27
+client_mini: ClientMini002, Jun  7 2024 11:12:45
+GameUI: 1.2.5 (Aug 19 2024 20:37:53)
+
+2025-01-15 04:19:00,293 INFO [next_emu] SteamAPI_Init | Start
+2025-01-15 04:19:00,296 INFO [next_emu] Can't initialize real steam mode. Fallback to emulator
+2025-01-15 04:19:01,088 INFO [next_emu] Emu type: 0
+2025-01-15 04:19:01,089 INFO [next_emu] SteamAPI_Init | End
+2025-01-15 05:15:39,919 INFO [next_emu] SteamAPI_Shutdown | Begin
+2025-01-15 05:15:39,921 INFO [next_emu] SteamAPI_Shutdown | End
